@@ -1,6 +1,6 @@
-package com.example.enversimplementation.dao.repository;
+package com.example.enversimplementation.repository;
 
-import com.example.enversimplementation.dao.entity.Book;
+import com.example.enversimplementation.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.history.RevisionRepository;
 

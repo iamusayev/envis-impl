@@ -1,6 +1,6 @@
 package com.example.enversimplementation.controller;
 
-import com.example.enversimplementation.dao.entity.Book;
+import com.example.enversimplementation.entity.Book;
 import com.example.enversimplementation.service.BookService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

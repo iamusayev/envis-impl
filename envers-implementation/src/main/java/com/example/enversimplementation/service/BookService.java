@@ -1,7 +1,7 @@
 package com.example.enversimplementation.service;
 
-import com.example.enversimplementation.dao.entity.Book;
-import com.example.enversimplementation.dao.repository.BookRepository;
+import com.example.enversimplementation.entity.Book;
+import com.example.enversimplementation.repository.BookRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

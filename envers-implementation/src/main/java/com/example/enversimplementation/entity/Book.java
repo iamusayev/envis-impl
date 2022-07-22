@@ -1,4 +1,4 @@
-package com.example.enversimplementation.dao.entity;
+package com.example.enversimplementation.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
